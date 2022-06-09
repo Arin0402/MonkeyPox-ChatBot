@@ -1,7 +1,12 @@
-# Deploy a Python (Flask) web app to Azure App Service - Sample Application
-
-This is the sample Flask application for the Azure Quickstart [Deploy a Python (Django or Flask) web app to Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/quickstart-python).  For instructions on how to create the Azure resources and deploy the application to Azure, refer to the Quickstart article.
-
-A Django sample application is also available for the article at [https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart](https://github.com/Azure-Samples/msdocs-python-django-webapp-quickstart).
-
-If you need an Azure account, you can [create on for free](https://azure.microsoft.com/en-us/free/).
+# MonkeyPox ChatBot 
+- Monkey pox Disease is affecting thousands of people around the world but the people don't have enough knowledge about it.
+- So a chatbot has been created to answer all the queries of people related to disease in one place.
+## Project Url
+- Deployed Website https://monkeypoxchatbot.z13.web.core.windows.net/
+## Technology used
+ - Azure Qna maker -- to make knowlwdge base for chat bot.
+ - Azure bot service --to make chat bot.
+ - Azure Static Web Apps --to deploy chatbot to website.
+ - Visual Studio code as editor. 
+ ## Screenshot of project
+![Screenshot (45)](https://user-images.githubusercontent.com/83952361/172907780-d8329dba-1e0e-4161-aa8d-336c36a75abe.png)
