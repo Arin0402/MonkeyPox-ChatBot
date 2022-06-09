@@ -1,8 +1,8 @@
 # MonkeyPox ChatBot 
 - Monkey pox Disease is affecting thousands of people around the world but the people don't have enough knowledge about it.
 - So a chatbot has been created to answer all the queries of people related to disease in one place.
-## Project Url
-- Deployed Website https://testwebapp0912am.azurewebsites.net/
+## Project Demo video
+- https://www.youtube.com/watch?v=jWicjv2tE1Q
 ## Technology used
  - Azure Qna maker -- to make knowlwdge base for chat bot.
  - Azure bot service --to make chat bot.
